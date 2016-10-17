@@ -229,6 +229,90 @@
   </body>
 </html>
 </richcontent>
+<node TEXT="MdL29" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1222023605" CREATED="1427225914994" MODIFIED="1476718065665">
+<icon BUILTIN="desktop_new"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Inbox contains your various groups of activities. Projects can be nested, and structured. FreeplaneGTD considers anything a project that has the respective configuration associated with it.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Once you clarify an item in your inbox, you should place it in a folder under the projects.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      You can move around your tasks using the mindmap shorcuts.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="TyFab" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1635177398" CREATED="1427225914994" MODIFIED="1476718073257">
+<icon BUILTIN="desktop_new"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Inbox contains your various groups of activities. Projects can be nested, and structured. FreeplaneGTD considers anything a project that has the respective configuration associated with it.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Once you clarify an item in your inbox, you should place it in a folder under the projects.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      You can move around your tasks using the mindmap shorcuts.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="#214JJ" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_680920088" CREATED="1427225914994" MODIFIED="1476718082984">
+<icon BUILTIN="desktop_new"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Inbox contains your various groups of activities. Projects can be nested, and structured. FreeplaneGTD considers anything a project that has the respective configuration associated with it.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Once you clarify an item in your inbox, you should place it in a folder under the projects.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      You can move around your tasks using the mindmap shorcuts.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Review" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_117855996" CREATED="1427225917881" MODIFIED="1453649693945">
 <icon BUILTIN="revision"/>
