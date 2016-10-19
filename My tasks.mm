@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="A faire" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1476644176330">
 <icon BUILTIN="mindmap"/>
-<hook NAME="MapStyle">
+<hook NAME="MapStyle" background="#cccccc" zoom="1.948">
     <properties fit_to_viewport="false;"/>
 
 <map_styles>
@@ -201,7 +201,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Projects" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1256051703" CREATED="1427225914994" MODIFIED="1453649695121">
+<node TEXT="Projects" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1256051703" CREATED="1427225914994" MODIFIED="1476902275199">
 <icon BUILTIN="desktop_new"/>
 <edge COLOR="#ffff00"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
@@ -229,7 +229,7 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="MdL29" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1222023605" CREATED="1427225914994" MODIFIED="1476718065665">
+<node TEXT="AnimaCoop" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_520122996" CREATED="1427225914994" MODIFIED="1476901484729">
 <icon BUILTIN="desktop_new"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 
@@ -239,25 +239,14 @@
   </head>
   <body>
     <p>
-      Inbox contains your various groups of activities. Projects can be nested, and structured. FreeplaneGTD considers anything a project that has the respective configuration associated with it.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      Once you clarify an item in your inbox, you should place it in a folder under the projects.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      You can move around your tasks using the mindmap shorcuts.
+      Actions &#224; accomplir dans le cadre de la formation
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node TEXT="TyFab" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1635177398" CREATED="1427225914994" MODIFIED="1476718073257">
+<node TEXT="MdL29" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1222023605" CREATED="1427225914994" MODIFIED="1476900893972">
 <icon BUILTIN="desktop_new"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 
@@ -267,25 +256,14 @@
   </head>
   <body>
     <p>
-      Inbox contains your various groups of activities. Projects can be nested, and structured. FreeplaneGTD considers anything a project that has the respective configuration associated with it.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      Once you clarify an item in your inbox, you should place it in a folder under the projects.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      You can move around your tasks using the mindmap shorcuts.
+      Maison du Libre
     </p>
   </body>
 </html>
+
 </richcontent>
 </node>
-<node TEXT="#214JJ" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_680920088" CREATED="1427225914994" MODIFIED="1476718082984">
+<node TEXT="TyFab" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" FOLDED="true" ID="ID_1635177398" CREATED="1427225914994" MODIFIED="1476902278118">
 <icon BUILTIN="desktop_new"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 
@@ -295,22 +273,120 @@
   </head>
   <body>
     <p>
-      Inbox contains your various groups of activities. Projects can be nested, and structured. FreeplaneGTD considers anything a project that has the respective configuration associated with it.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      Once you clarify an item in your inbox, you should place it in a folder under the projects.
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      You can move around your tasks using the mindmap shorcuts.
+      TyFab
     </p>
   </body>
 </html>
+
+</richcontent>
+<node TEXT="Presentation des Membres" FOLDED="true" ID="ID_278605643" CREATED="1476901035416" MODIFIED="1476901471723" TEXT_SHORTENED="true"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Qui ? Quoi ? O&#249; ? Quand ? Comment ? Combien ? Pourquoi ?
+    </p>
+  </body>
+</html>
+
+</richcontent>
+<node TEXT="Qui ?" FOLDED="true" ID="ID_1673940220" CREATED="1476901056964" MODIFIED="1476901066251">
+<node TEXT="Nom" ID="ID_1120766639" CREATED="1476901067879" MODIFIED="1476901070544"/>
+<node TEXT="Pr&#xe9;nom" ID="ID_1444379741" CREATED="1476901072093" MODIFIED="1476901076209"/>
+<node TEXT="Pseudo" ID="ID_1363369271" CREATED="1476901076629" MODIFIED="1476901081712"/>
+<node TEXT="Contacts privil&#xe9;gi&#xe9;s" ID="ID_1412416737" CREATED="1476901085010" MODIFIED="1476901096859"/>
+</node>
+<node TEXT="Quoi ?" FOLDED="true" ID="ID_1310955611" CREATED="1476901143551" MODIFIED="1476901161041">
+<node TEXT="Comp&#xe9;tances" ID="ID_684091014" CREATED="1476901162805" MODIFIED="1476901166045"/>
+<node TEXT="Ap&#xe9;tances" ID="ID_868697808" CREATED="1476901166940" MODIFIED="1476901170523"/>
+</node>
+<node TEXT="O&#xf9; ?" FOLDED="true" ID="ID_1057037267" CREATED="1476901365267" MODIFIED="1476901374476">
+<node TEXT="Vie" ID="ID_1153642060" CREATED="1476901514049" MODIFIED="1476901543989"/>
+<node TEXT="Travail" ID="ID_1767591801" CREATED="1476901534606" MODIFIED="1476901591059"/>
+<node TEXT="Loisirs" ID="ID_622268974" CREATED="1476901567076" MODIFIED="1476901596262"/>
+<node TEXT="Autres structures" ID="ID_940673540" CREATED="1476901574351" MODIFIED="1476901580911"/>
+</node>
+<node TEXT="Quand ?" FOLDED="true" ID="ID_48486802" CREATED="1476901099748" MODIFIED="1476901110019">
+<node TEXT="Disponibilit&#xe9;" ID="ID_412342826" CREATED="1476901112137" MODIFIED="1476901565476"/>
+<node TEXT="Cr&#xe9;neaux horraires" ID="ID_366728796" CREATED="1476901131576" MODIFIED="1476901142406"/>
+</node>
+<node TEXT="Comment ?" FOLDED="true" ID="ID_1716309946" CREATED="1476901377380" MODIFIED="1476901380960">
+<node TEXT="Ressources disponnibles" ID="ID_380563749" CREATED="1476901647328" MODIFIED="1476901658773"/>
+<node TEXT="Comp&#xe9;tances transf&#xe9;rable" ID="ID_1222427557" CREATED="1476901660100" MODIFIED="1476901684998"/>
+</node>
+<node TEXT="Combien ?" ID="ID_102193590" CREATED="1476901381467" MODIFIED="1476901386168"/>
+<node TEXT="Pourquoi ?" ID="ID_637893035" CREATED="1476901173028" MODIFIED="1476901399234"/>
+</node>
+<node TEXT="Cartographies" FOLDED="true" ID="ID_1454059325" CREATED="1476901715531" MODIFIED="1476901722851">
+<node TEXT="Membres" FOLDED="true" ID="ID_663631298" CREATED="1476901723402" MODIFIED="1476901729756">
+<node TEXT="Pr&#xe9;sentation" ID="ID_90114187" CREATED="1476901730417" MODIFIED="1476901738839"/>
+<node TEXT="Actions" ID="ID_1044909072" CREATED="1476901739608" MODIFIED="1476901783503"/>
+</node>
+<node TEXT="Ressources" FOLDED="true" ID="ID_599556291" CREATED="1476901796977" MODIFIED="1476901805763">
+<node TEXT="Interne" ID="ID_851112368" CREATED="1476901807503" MODIFIED="1476901833532"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Parc Machine
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Partag&#xe9;es par le Membres" ID="ID_956346323" CREATED="1476901837356" MODIFIED="1476901858877"/>
+<node TEXT="Chez les Membres" ID="ID_984321271" CREATED="1476901870736" MODIFIED="1476901888331"/>
+</node>
+<node TEXT="Projets" FOLDED="true" ID="ID_319525691" CREATED="1476901899748" MODIFIED="1476901909168">
+<node TEXT="Description" ID="ID_430012159" CREATED="1476901909841" MODIFIED="1476901933145"/>
+<node TEXT="Documentation" ID="ID_467407846" CREATED="1476901934952" MODIFIED="1476901940482"/>
+<node TEXT="Groupes" ID="ID_1997252009" CREATED="1476901946006" MODIFIED="1476901948530"/>
+</node>
+</node>
+<node TEXT="Outils d&apos;informations" FOLDED="true" ID="ID_803552650" CREATED="1476901952959" MODIFIED="1476901973934">
+<node TEXT="Listes de discution" FOLDED="true" ID="ID_1276718871" CREATED="1476901975181" MODIFIED="1476902019871">
+<node TEXT="fablab@infini.fr" ID="ID_1484050010" CREATED="1476902164011" MODIFIED="1476902183701"/>
+<node TEXT="user@tyfab.fr" ID="ID_1786944091" CREATED="1476902184412" MODIFIED="1476902198359"/>
+</node>
+<node TEXT="Listes de diffusion" FOLDED="true" ID="ID_1024202583" CREATED="1476902001200" MODIFIED="1476902012713">
+<node TEXT="newsletter" ID="ID_1100876311" CREATED="1476902129794" MODIFIED="1476902140183"/>
+<node TEXT="fablab@infini" ID="ID_325412712" CREATED="1476902140890" MODIFIED="1476902154993"/>
+</node>
+<node TEXT="Site de pr&#xe9;sentation" FOLDED="true" ID="ID_684830246" CREATED="1476902022725" MODIFIED="1476902037479">
+<node TEXT="Site vitrine institutionnel" ID="ID_76303161" CREATED="1476902099358" MODIFIED="1476902112723"/>
+<node TEXT="Blog" ID="ID_1212787032" CREATED="1476902113522" MODIFIED="1476902117253"/>
+<node TEXT="wiki" ID="ID_1862936364" CREATED="1476902119541" MODIFIED="1476902124369"/>
+</node>
+<node TEXT="Site de partage" FOLDED="true" ID="ID_130174972" CREATED="1476902038229" MODIFIED="1476902044058">
+<node TEXT="wiki.tyfab.fr" ID="ID_1880185287" CREATED="1476902049496" MODIFIED="1476902056680"/>
+<node TEXT="wiki.mdl29.net" ID="ID_1151662375" CREATED="1476902057270" MODIFIED="1476902069097"/>
+<node TEXT="flatshape" ID="ID_899007089" CREATED="1476902069706" MODIFIED="1476902078705"/>
+<node TEXT="wikifab" ID="ID_1959814461" CREATED="1476902083274" MODIFIED="1476902093195"/>
+</node>
+</node>
+</node>
+<node TEXT="#214JJ" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_680920088" CREATED="1427225914994" MODIFIED="1476900817511">
+<icon BUILTIN="desktop_new"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Tout ce qui a trait au lieu lui-m&#234;me et a son animation.
+    </p>
+  </body>
+</html>
+
 </richcontent>
 </node>
 </node>
