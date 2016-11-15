@@ -16,7 +16,7 @@
 </html>
 </richcontent>
 <edge COLOR="#ffff00"/>
-<hook NAME="MapStyle" background="#cccccc" zoom="1.211">
+<hook NAME="MapStyle" background="#cccccc">
     <properties fit_to_viewport="false;"/>
 
 <map_styles>
@@ -71,8 +71,8 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="9" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="Presentation TyFab" POSITION="right" ID="ID_521894387" CREATED="1476901035416" MODIFIED="1478347810712" TEXT_SHORTENED="true"><richcontent TYPE="DETAILS">
+<hook NAME="AutomaticEdgeColor" COUNTER="10" RULE="ON_BRANCH_CREATION"/>
+<node TEXT="Presentation TyFab" FOLDED="true" POSITION="right" ID="ID_521894387" CREATED="1476901035416" MODIFIED="1478347810712" TEXT_SHORTENED="true"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -123,7 +123,7 @@
 <node TEXT="Combien ?" ID="ID_427836137" CREATED="1476901381467" MODIFIED="1476901386168"/>
 <node TEXT="Pourquoi ?" ID="ID_946462440" CREATED="1476901173028" MODIFIED="1476901399234"/>
 </node>
-<node TEXT="Presentation des Membres" POSITION="right" ID="ID_278605643" CREATED="1476901035416" MODIFIED="1478347757348" TEXT_SHORTENED="true"><richcontent TYPE="DETAILS">
+<node TEXT="Presentation des Membres" FOLDED="true" POSITION="right" ID="ID_278605643" CREATED="1476901035416" MODIFIED="1478347757348" TEXT_SHORTENED="true"><richcontent TYPE="DETAILS">
 
 <html>
   <head>
@@ -213,6 +213,74 @@
 <node TEXT="wiki.mdl29.net" ID="ID_1151662375" CREATED="1476902057270" MODIFIED="1476902069097"/>
 <node TEXT="flatshape" ID="ID_899007089" CREATED="1476902069706" MODIFIED="1476902078705"/>
 <node TEXT="wikifab" ID="ID_1959814461" CREATED="1476902083274" MODIFIED="1476902093195"/>
+</node>
+</node>
+<node TEXT="Pistes" POSITION="right" ID="ID_1877876269" CREATED="1479201006528" MODIFIED="1479201023654">
+<edge COLOR="#808080"/>
+<node TEXT="Avancer avec les nouveaux sans emb&#xe9;ter les anciens" ID="ID_1867271376" CREATED="1479201025356" MODIFIED="1479201050948">
+<node TEXT="Pour relancer une dinamique avec les nouveaux" ID="ID_1579221322" CREATED="1479201052758" MODIFIED="1479201542860"/>
+<node TEXT="Pour que les anciens ne freinnent pas la dynamique" ID="ID_1996009104" CREATED="1479201544783" MODIFIED="1479201564096"/>
+<node TEXT="!!! Ne pas laisser les anciens de c&#xf4;t&#xe9;" ID="ID_771396738" CREATED="1479201564668" MODIFIED="1479201580395">
+<node TEXT="Informations" ID="ID_740580693" CREATED="1479201584358" MODIFIED="1479201590137"/>
+<node TEXT="Passations" ID="ID_329725055" CREATED="1479201591713" MODIFIED="1479201608529">
+<node TEXT="De comp&#xe9;tances" ID="ID_1564764078" CREATED="1479201834453" MODIFIED="1479201838827"/>
+<node TEXT="Utilisation des machines" ID="ID_1126084432" CREATED="1479201844324" MODIFIED="1479201851280"/>
+<node TEXT="Valeurs du projet" ID="ID_1688929580" CREATED="1479201855878" MODIFIED="1479201866345"/>
+</node>
+</node>
+</node>
+<node TEXT="Relancer une dynamique" ID="ID_1251491921" CREATED="1479201313019" MODIFIED="1479201321014">
+<node TEXT="Capter les envies de chacun de mani&#xe8;re informelle si pas de mani&#xe8;re formelle" ID="ID_95205880" CREATED="1479201404545" MODIFIED="1479201517732">
+<node TEXT="Chez les nouveaux" ID="ID_1068630011" CREATED="1479201616434" MODIFIED="1479201621235">
+<node TEXT="Quel est votre projet ?" ID="ID_293801759" CREATED="1479201751163" MODIFIED="1479201764620"/>
+<node TEXT="De quoi avez-vous besoin ?" ID="ID_90121972" CREATED="1479201765342" MODIFIED="1479201773123"/>
+</node>
+<node TEXT="Chez les anciens" ID="ID_1780602339" CREATED="1479201621718" MODIFIED="1479201745539">
+<node TEXT="Pourquoi vous &#xea;tes venus" ID="ID_978178426" CREATED="1479201642749" MODIFIED="1479201655067"/>
+<node TEXT="Pourquoi vous &#xea;tes encore l&#xe0;" ID="ID_401240568" CREATED="1479201655521" MODIFIED="1479201662961"/>
+<node TEXT="Que voulez vous faire pour demain" ID="ID_736015287" CREATED="1479201663451" MODIFIED="1479201745535" TEXT_SHORTENED="true"><richcontent TYPE="DETAILS">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      PPPPP
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="Chez ceux qui sont partit" ID="ID_53040635" CREATED="1479201638165" MODIFIED="1479201785433"/>
+<node TEXT="Outils" ID="ID_1304236227" CREATED="1479201879159" MODIFIED="1479201883331">
+<node TEXT="Priv&#xe9;" ID="ID_1126785315" CREATED="1479201953548" MODIFIED="1479201956585">
+<node TEXT="Questionnaires papier" ID="ID_216634138" CREATED="1479201893385" MODIFIED="1479202066325"/>
+<node TEXT="Boites &#xe0; id&#xe9;e ?" ID="ID_287578390" CREATED="1479201897968" MODIFIED="1479201904656"/>
+</node>
+<node TEXT="Publique" ID="ID_1423350667" CREATED="1479201958335" MODIFIED="1479201962902">
+<node TEXT="Tableau d&apos;affichage" ID="ID_1873178874" CREATED="1479202011427" MODIFIED="1479202017781">
+<node TEXT="Mur &#xe0; id&#xe9;es" ID="ID_515116082" CREATED="1479201922569" MODIFIED="1479201930942"/>
+</node>
+<node TEXT="Sondages en ligne" ID="ID_449050710" CREATED="1479201887512" MODIFIED="1479202105931">
+<font SIZE="9"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="Mener des actions en dehors du lieu" ID="ID_1638686685" CREATED="1479201437228" MODIFIED="1479201449068"/>
+</node>
+<node TEXT="Charte" ID="ID_1611571548" CREATED="1479201058103" MODIFIED="1479201066121">
+<node TEXT="Passeport machine pour l&apos;utilisation des machines" ID="ID_432720939" CREATED="1479201135385" MODIFIED="1479201152522"/>
+<node TEXT="Autorisation pour l&apos;utilisation du mat&#xe9;riel" ID="ID_1456017586" CREATED="1479201159491" MODIFIED="1479201176702"/>
+</node>
+<node TEXT="Diff&#xe9;rance Utilisateurs / Vie de la structure" ID="ID_1951443008" CREATED="1479201085465" MODIFIED="1479201115365"/>
+<node TEXT="&#xc9;chelle des groupes" ID="ID_691651268" CREATED="1479201197711" MODIFIED="1479201212906">
+<node TEXT="Exp&#xe9;rimenter avec le petit groupe" ID="ID_1707639094" CREATED="1479201184198" MODIFIED="1479201196729"/>
+<node TEXT="Appliquer au niveau du TyFab" ID="ID_1661540737" CREATED="1479201219374" MODIFIED="1479201237400"/>
+<node TEXT="Remonter le fonctionnement au niveau MdL" ID="ID_1967157529" CREATED="1479201237990" MODIFIED="1479201256857"/>
 </node>
 </node>
 </node>
