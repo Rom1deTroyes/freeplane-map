@@ -16,7 +16,7 @@
 </html>
 </richcontent>
 <edge COLOR="#ffff00"/>
-<hook NAME="MapStyle" background="#cccccc">
+<hook NAME="MapStyle" background="#cccccc" zoom="0.70234984">
     <properties fit_to_viewport="false;"/>
 
 <map_styles>
@@ -264,9 +264,10 @@
 <node TEXT="Tableau d&apos;affichage" ID="ID_1873178874" CREATED="1479202011427" MODIFIED="1479202017781">
 <node TEXT="Mur &#xe0; id&#xe9;es" ID="ID_515116082" CREATED="1479201922569" MODIFIED="1479201930942"/>
 </node>
-<node TEXT="Sondages en ligne" ID="ID_449050710" CREATED="1479201887512" MODIFIED="1479202105931">
-<font SIZE="9"/>
+<node TEXT="Sondages en ligne" ID="ID_449050710" CREATED="1479201887512" MODIFIED="1479373247618">
+<font SIZE="10"/>
 </node>
+<node TEXT="Souvenir du futur / cauchemard du futur" ID="ID_975142832" CREATED="1479209925119" MODIFIED="1479209951313"/>
 </node>
 </node>
 </node>
@@ -281,6 +282,14 @@
 <node TEXT="Exp&#xe9;rimenter avec le petit groupe" ID="ID_1707639094" CREATED="1479201184198" MODIFIED="1479201196729"/>
 <node TEXT="Appliquer au niveau du TyFab" ID="ID_1661540737" CREATED="1479201219374" MODIFIED="1479201237400"/>
 <node TEXT="Remonter le fonctionnement au niveau MdL" ID="ID_1967157529" CREATED="1479201237990" MODIFIED="1479201256857"/>
+</node>
+<node TEXT="A penser" ID="ID_1917172063" CREATED="1479209976731" MODIFIED="1479373219144">
+<node TEXT="D&#xe9;monstration collective du besoin" ID="ID_246032681" CREATED="1479209983398" MODIFIED="1479209994938"/>
+<node TEXT="Accueil des nouveaux" ID="ID_166671437" CREATED="1479209995175" MODIFIED="1479210001871"/>
+<node TEXT="&#xc9;chaner avec les usagers finaux" ID="ID_508902277" CREATED="1479210002070" MODIFIED="1479210018955"/>
+<node TEXT="Bonne gare centrale" ID="ID_669295837" CREATED="1479210019528" MODIFIED="1479210035515"/>
+<node TEXT="Compostabilit&#xe9;" ID="ID_1493188119" CREATED="1479210035845" MODIFIED="1479373241456"/>
+<node TEXT="Projets semblables ?" ID="ID_1148544599" CREATED="1479373307005" MODIFIED="1479404254936"/>
 </node>
 </node>
 </node>
