@@ -280,6 +280,12 @@
 </html>
 </richcontent>
 </node>
+<node TEXT="Id&#xe9;es" ID="ID_22310870" CREATED="1480679854559" MODIFIED="1480679860555">
+<node TEXT="Ad&#xe9;quation Projets - Acteurs" ID="ID_378634369" CREATED="1480679862313" MODIFIED="1480680468263">
+<node TEXT="Acteur propose 3 comp&#xe9;tances" ID="ID_824008407" CREATED="1480679878628" MODIFIED="1480679894825"/>
+<node TEXT="Projet cherche 3 comp&#xe9;tances" ID="ID_1933270479" CREATED="1480679899856" MODIFIED="1480679912095"/>
+</node>
+</node>
 </node>
 <node TEXT="Review" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_117855996" CREATED="1427225917881" MODIFIED="1453649693945">
 <icon BUILTIN="revision"/>
